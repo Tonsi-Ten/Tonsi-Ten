@@ -1,54 +1,11 @@
 # 💫 Hi 👋, I'm Aditya Prakash
-
-### Data Analyst | AI & Automation Enthusiast | Agentic AI Developer 🚀
-
+### Data Analyst | AI & Automation Enthusiast | Agentic AI Developer | Engineer 🚀
 I'm passionate about turning data and AI into practical solutions that solve real-world business problems.
 
-📊 Data Analytics • 🤖 AI Agents • ⚙️ Automation • ☁️ Cloud • 📈 Business Intelligence
-
----
-
-### 🔭 I'm currently working on
-Working On Data Science Project
-
-### 🌱 I'm currently learning
-**Agentic AI, LangGraph, LangChain, n8n, LLMs, RAG, AI APIs & Cloud Technologies**
-
-### 👯 I'm looking to collaborate on
-AI Agents, Data Analytics, Automation, Business Intelligence, and Open Source projects.
-
-### 🤔 I'm looking for help with
-Building scalable AI-powered products and turning ideas into real-world businesses.
-
-### 💬 Ask me about
-Python, SQL, Power BI, Data Analytics, AI Agents, LangChain, LangGraph, n8n, and Automation.
-
-### 📫 How to reach me
-📧 **adityaprakash2712@gmail.com**
-
-### ⚡ Fun fact
-I love learning new technologies and turning ideas into working projects. 🚀
-## 🚀 Featured Projects
-
-🔹 **AI Receptionist** – AI-powered voice agent for customer support and appointment booking
-
-🔹 **Financial Insights Dashboard** – Data analytics and financial scoring system
-
-🔹 **Pizza Sales Analysis** – SQL-based business intelligence project
-
-🔹 **Hospital Management System** – Oracle APEX-based healthcare management solution
-
-🔹 **Stock Prediction** – LSTM-based machine learning project
-
----
+📊 Data Analytics • 🤖 AI Agents • ⚙️ Automation • ☁️ Cloud • 📈 Business Intelligence 
 
 ## 📊 GitHub Stats
-
 I'm continuously learning, building, and sharing projects around **Data, AI & Automation**.
-
-## 🤝 Let's Connect
-
-I'm always open to collaborating on interesting **AI, Data Analytics, Automation and Technology projects.**
 
 <!-- Snake Game Repo View -->
 
