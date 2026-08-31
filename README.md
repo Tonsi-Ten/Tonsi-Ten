@@ -1,6 +1,7 @@
-<img width="1584" height="396" alt="AWS Community Builder" src="" />
+<img width="1584" height="396" alt="AWS Community Builder" src="https://raw.githubusercontent.com/Tonsi-Ten/My_Attachments_Repo/1433180282a406efbacaa56033fc428990648c52/1719332064376.jpg" />
 
 # 💫 Hi 👋, I'm Aditya Prakash
+
 ### Data Analyst | AI & Automation Enthusiast | Agentic AI Developer | Engineer 🚀
 I'm passionate about turning data and AI into practical solutions that solve real-world business problems.
 
