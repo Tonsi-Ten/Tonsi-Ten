@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="AWS Community Builder" src="" />
+
 # 💫 Hi 👋, I'm Aditya Prakash
 ### Data Analyst | AI & Automation Enthusiast | Agentic AI Developer | Engineer 🚀
 I'm passionate about turning data and AI into practical solutions that solve real-world business problems.
